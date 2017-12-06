@@ -13,7 +13,7 @@ using the following commands.
 1. capture pcap file:
 2. analyze pcap file:
 
-    $ #sh ./bin/cwind_analyzer.sh {pcap_file} {target_cdn_ip}
+    #sh ./bin/cwind_analyzer.sh {pcap_file} {target_cdn_ip}
     $ sh ./bin/cwind_analyzer.sh ./data/5bde2082020b63fe2625903ff6760a42_1_0.pcap 211.151.109.110 
     
 3. to see the results in 'log' dir.
